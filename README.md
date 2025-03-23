@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Tej Khatri
+🚀 Software Developer | .NET | C# | Blazor | WinForms | API Development
 
-<!--
-**tejkhatrihk/tejkhatrihk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 About Me
+🔹 Passionate about building scalable web & desktop applications
+🔹 Experienced in C#, ASP.NET Core, gRPC, SQL, and API development
+🔹 Currently working on a Personal Finance Tracker 💰
+🔹 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+💻 Languages: C#, SQL, JavaScript
+🖥 Web & Desktop: ASP.NET Core, Blazor, WinForms
+🔗 APIs & Databases: REST API, gRPC, MS SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+🔹 Personal Finance Tracker – A full-stack app for managing expenses (Repo Link)
+
+📫 Connect with Me
+📩 LinkedIn: https://www.linkedin.com/in/tejashri-khatri/
+📂 GitHub: https://github.com/tejkhatrihk
